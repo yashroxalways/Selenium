@@ -1,0 +1,3 @@
+-create a automated selenium file and save it as .py file
+-add requirements.txt file to download the needed apps or features
+-using the github repository link push them to the repository
